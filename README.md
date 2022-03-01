@@ -60,7 +60,7 @@ Ubiquitous web application : location aware services, multi platform delivery.
 
 ---  
 
-#2(a). How do web application differ from traditional application in 3 dimensions?  
+# 2(a). How do web application differ from traditional application in 3 dimensions?  
 Ans:  
 3 dimensions are:  
 - Product-based  
