@@ -1,11 +1,11 @@
 # 1(a). What is web engineering ? Why this is called a systematic descipline?
-Ans:    
+__Ans:__    
 Web engineering is the process of designing, creating, testing, and maintaining website applications. It involves working with a variety of programming languages and tools to create dynamic and interactive websites.  
 Web engineering is called a systematic discipline because it relies on a set of repeatable, well-defined processes and procedures. These processes allow web engineers to create reliable and consistent websites that meet the needs of their users.
 
 ---  
 # 1(b). Describe the categories of web application.  
-Ans:  
+__Ans:__  
 Categories of Web Applications:  
 - Document centric web application  
 - Interactive web application  
@@ -61,7 +61,7 @@ Ubiquitous web application : location aware services, multi platform delivery.
 ---  
 
 # 2(a). How do web application differ from traditional application in 3 dimensions?  
-Ans:  
+__Ans:__  
 3 dimensions are:  
 - Product-based  
 - Usage-based  
@@ -69,7 +69,7 @@ Ans:
 
 > Product Base:  
 It is the integral part of web application. It consists of: Present, Hypertext, and Content.   
-<b>Present:</b>   
+__Present:__   
 -Presentation plays an important role in product marketing.   
 -Looks and feel is the first impression for the success and failure of application in this competitive market.   
 -The application must be attractive, impressive and according to fashion trend going on in market.
