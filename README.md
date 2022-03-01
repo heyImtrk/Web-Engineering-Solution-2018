@@ -6,7 +6,7 @@ Web engineering is called a systematic discipline because it relies on a set of 
 ---  
 # 1(b). Describe the categories of web application.  
 __Ans:__  
-Categories of Web Applications:  
+__Categories of Web Applications:__ 
 - Document centric web application  
 - Interactive web application  
 - Transactional web application  
@@ -15,7 +15,7 @@ Categories of Web Applications:
 - Portal-oriented web application  
 - Ubiquitous web application  
   
-Example:  
+__Example:__  
 Document centric web application : web radio, static homepage.  
 Interactive web application : News site, travel plannnig.  
 Transactional web application : Online banking, booking system.  
@@ -67,9 +67,52 @@ __Ans:__
 - Usage-based  
 - Development-based  
 
-> Product Base:  
+__Product Base:__   
 It is the integral part of web application. It consists of: Present, Hypertext, and Content.   
-__Present:__   
+> Present:   
 -Presentation plays an important role in product marketing.   
 -Looks and feel is the first impression for the success and failure of application in this competitive market.   
--The application must be attractive, impressive and according to fashion trend going on in market.
+-The application must be attractive, impressive and according to fashion trend going on in market.  
+
+> Hypertext:   
+-Hypertext is the base of web application.   
+-The basic elements of hypertext are: link, node and anchor.   
+-It makes the application highly interactive and improve the performance. 
+
+> Content:   
+-Content is the informational part.   
+-Content generation, integration and updating and availability is an important factor.   
+-It contains document, table, text, graphics, and multimedia.  
+
+__Usage Base:__  
+It varies according to the user, devices used by the users etc. we can divide the user related characteristics of web application as: Natural content, Social content and Technical content.  
+
+> Natural Content:   
+-It includes the geographical location from where the web applications are accessed and availability of the web application.   
+-Global accessibility of web application with 24*7 availability improves the performance, stability and demand of the web application.
+
+> Social Content:   
+-It is related to user specific aspect.   
+-There are thousands of competitive web applications around the globe, the user need spontaneous and immediate benefits.   
+-Scalability and multiculturalism are extremely essential feature required for web application.
+
+> Technical Content:   
+-It is related to network of web application and the devices where web application are used.   
+-Connection bandwidth, stability, reliability etc are some essential features that affect the performance of web application.   
+-Device specification, browser configuration, version etc are responsible for web application performance and accessibility.  
+
+__Development Base:__  
+It includes: Development team, Development process and Technical infrastructure.  
+> Development Team:   
+-Development team must be highly knowledgeable in their field.   
+-The team members must be knowledge freaks, willing to work, innovative and interested in latest technology and tools.
+
+> Development Process:   
+-The development process must be flexible.   
+-There must be parallel processes of development.
+
+> Technical Infrastructure:   
+-The web application must be bugs free and development should be under time limit. 
+
+
+
