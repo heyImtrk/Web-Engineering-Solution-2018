@@ -112,7 +112,80 @@ It includes: Development team, Development process and Technical infrastructure.
 -There must be parallel processes of development.
 
 > Technical Infrastructure:   
--The web application must be bugs free and development should be under time limit. 
+-The web application must be bugs free and development should be under time limit.   
+
+---
+
+
+# 2(b). Define web portal. Give an example of Ubiquitous web application.
+__Ans:__  
+A web portal is a specially designed website that brings information from diverse sources, like emails, online forums and search engines, together in a uniform way.  
+__Ubiquitous web application__ : location aware services, multi platform delivery.  
+
+---
+
+# 2(c).  What are the significance of User Interface while developing a web application?
+__Ans:__  
+The user interface (UI) is the point at which users interact with a website or application. The goal of UI is to make the user's experience easy and intuitive, requiring minimum effor to receive maximum desired outcome.
+> __Important :__  
+-UI is created in layers of interaction that appeal to the human senses.  
+-User interface is important to meet user expectations and support the effective functionality of a site.  
+-The UI Design help to win the consumers’ confidence and make them use your application or website providing them what they are looking for.  
+-The number of consumers you are getting on your website/application can measure the success of the great UI and UX.
+
+---
+
+# 3(c). how to mitigate risks while develope web application?
+__Ans:__  
+- prototyping (avoid IKIWISI).  
+- show changes to customer iteratively.  
+- integrate existing systems sooner than later.
+
+---
+
+# 4(a). Why modeling is important in web application?
+__Ans:__  
+-reduce complexity  
+-document design decisions  
+-facilitate communication among team members  
+
+Without data model and diagrams it is hard to fix and focus on the target scope of the development; the scope is often changing during development which result delay and not calculated costs of risk and effort.
+
+With “modeling” we draw, represent and describe what we want to implement and we can talk about a fix and more compact package of web design during development.  
+
+---
+
+# 4(c). Advantages of using UML as tool:
+__Ans:__  
+__Visual Representation:__   
+A UML diagram is a visual representation of the relationships between classes and entities in a computer program. By showing information in a diagram, it is easy to understand and visualize a program's relationships.
+
+__Readability and Re-usability:__  
+A UML diagram is beneficial in that it is very readable. The diagram is meant to be understood by any type of programmer and helps to explain relationships in a program in a straightforward manner. 
+
+__Standard:__  
+UML is the current standard for programming in object-oriented programming languages. It is widely understood and well known. 
+
+__Planning Tool:__  
+UML helps to plan a program before the programming takes place. UML model diagram is easy to change, whereas reprogramming a section of code can be tedious and time-consuming.
+
+---
+
+# 6(b). What do mean by layer web architecture? What are main features include in any system architecture?
+__Ans:__  
+Layer Web architecture is a mechanism that determines how application components communicate with each other.   
+> Three main features include any system architecture are :  
+- Components  
+- Collaborations (how components interact)  
+- Connectors (how components communicate)  
+
+---
+
+
+
+
+
+
 
 
 
